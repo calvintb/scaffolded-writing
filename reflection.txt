@@ -1,0 +1,23 @@
+1. What were the benefits of using a context free grammar for your task domain?
+
+    I think it helped with grading. It obviously made it much easier to determine if there was a valid response. 
+    But it also helped with an important aspect of my task domain: establishing goals. I think a lot of people 
+    don't play blackjack with goals, but because of this format, it would help the learner think more about what they want to do.
+
+2. What were the down sides or difficulties of using a context free grammar for your task domain?
+
+    It was very restrictive in their choices of goals. In a typical game of blackjack, you could pick almost any number as a goal,
+    but in this scenario, it was too difficult to have a lot of options. It also was difficult to actually simulate all of the decisions that
+    belong to the task domain because you usually have to reassess your goals when you receive new information.
+
+3. What were the benefits of using a constraint based grading for your task domain?
+
+    It worked out really well, because there aren't any perfect answers. There's a pool of correct actions to take so it worked 
+    well to draw the lines of a couple of poor decisions and then let the learner decide what they want to try. It works well 
+    because blackjack is very based on luck and future draws that there are a lot of correct possibilities.
+
+4. What were the down sides or difficulties of using a constraint based grading for your task domain?
+
+    It was hard to draw firm lines because anything could happen in that game. For example, I marked `standing at 5` as 
+    a bad action, but that could win you some rounds. It was difficult to truly identify good and bad actions.
+
